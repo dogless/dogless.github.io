@@ -1,3 +1,8 @@
+.invis {
+    width:0;
+    height:0;
+}
+
 .segment {
     position: relative;
     width: 100%;
